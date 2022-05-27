@@ -26,7 +26,7 @@ I'm Roman, I'm a Frontend developer, 👨‍💻 who is passionate about JS tech
 ### Contacts:
 [![Vkontakte Badge](https://img.shields.io/badge/-roman_kobeev-blue?style=flat-square&logo=Vk&logoColor=white&color=blue&link=https://vk.com/roman_kobeev)](https://vk.com/roman_kobeev)
 [![Facebook Badge](https://img.shields.io/badge/-roman_kobeev-blue?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https://facebook.com/roman_kobeev)](https://facebook.com/roman_kobeev)
-[![Instagram Badge](https://img.shields.io/badge/-roman_kobeev-blue?style=flat-square&logo=Instagram&logoColor=white&color=blue&link=https://instagram.com/roman_kobeev)](https://instagram.com/ereburg)
+[![Instagram Badge](https://img.shields.io/badge/-roman_kobeev-blue?style=flat-square&logo=Instagram&logoColor=white&color=blue&link=https://instagram.com/roman_kobeev)](https://instagram.com/roman_kobeev)
 
 ### Technologies:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
